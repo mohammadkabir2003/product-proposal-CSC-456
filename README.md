@@ -3,10 +3,10 @@
 # MoodFLOW
 
 ## Project Pitch  
-Mood & Productivity Tracker is a simple application that helps users track their daily mood and productivity. By logging how they feel and what they work on, users can better understand patterns in their habits and improve their daily routine.
+MoodFLOW is a simple application that helps users track their daily mood and productivity. By logging how they feel and what they work on, users can better understand patterns in their habits and improve their daily routine.
 
 ## Project Description  
-Mood & Productivity Tracker allows users to record their mood and write short notes about their daily activities. Each entry is saved with a date so users can look back and reflect on their past days. The app focuses on being easy to use and quick to update, making it ideal for everyday use.  
+MoodFLOW allows users to record their mood and write short notes about their daily activities. Each entry is saved with a date so users can look back and reflect on their past days. The app focuses on being easy to use and quick to update, making it ideal for everyday use.  
 
 The project also includes basic visual tracking to help users notice trends over time. By viewing their mood data in a simple graph, users can see how their productivity changes based on how they feel. The goal is to encourage self-awareness without making the process complicated.
 
