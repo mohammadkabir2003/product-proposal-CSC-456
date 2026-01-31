@@ -1,40 +1,29 @@
 # product-proposal-CSC-456
-Project Name
 
-TaskFLOW
+# MoodFLOW
 
-Project Pitch
+## Project Pitch  
+Mood & Productivity Tracker is a simple application that helps users track their daily mood and productivity. By logging how they feel and what they work on, users can better understand patterns in their habits and improve their daily routine.
 
-Daily Task Planner is a simple productivity app that helps users organize their tasks and view them on a calendar. It combines a basic to-do list with light scheduling so users can plan their days without feeling overwhelmed.
+## Project Description  
+Mood & Productivity Tracker allows users to record their mood and write short notes about their daily activities. Each entry is saved with a date so users can look back and reflect on their past days. The app focuses on being easy to use and quick to update, making it ideal for everyday use.  
 
-Project Description
+The project also includes basic visual tracking to help users notice trends over time. By viewing their mood data in a simple graph, users can see how their productivity changes based on how they feel. The goal is to encourage self-awareness without making the process complicated.
 
-Daily Task Planner allows users to create tasks and assign them to specific dates. Users can view their tasks in a list or see them laid out on a calendar to better understand their schedule. The app is designed to be easy to use and quick to navigate.
+## Primary Users  
+This app is designed for students who want to understand how their mood affects their schoolwork. It is also helpful for people who want to reflect on their daily habits and productivity. Anyone who wants a simple and organized way to track their day can benefit from using this app.
 
-The goal of this project is to help users stay organized without adding unnecessary complexity. It focuses on everyday planning and keeping track of tasks in a clear and simple way.
+## Features  
+- Users can log their daily mood using a simple rating scale  
+- Users can write short notes about what they worked on  
+- Entries are saved and organized by date  
+- Users can view past entries in a list or calendar view  
+- A basic graph displays mood trends over time  
+- Users can edit or delete previous entries  
 
-Primary Users
-
-This app is designed for students who want a simple way to keep track of assignments and due dates. It is also useful for people who want help organizing daily responsibilities such as work tasks or personal goals. Anyone who prefers a clean and easy-to-use planning tool can benefit from this app.
-
-Features
-
-Users can add and edit tasks
-
-Tasks can be assigned to specific dates
-
-Users can view tasks in a calendar layout
-
-Tasks can be marked as completed
-
-Tasks can be deleted when no longer needed
-
-Benefits
-
-Helps users stay organized and plan ahead
-
-Makes it easier to manage daily responsibilities
-
-Provides a clear view of upcoming tasks
-
-Keeps planning simple and stress free
+## Benefits  
+- Helps users recognize patterns between mood and productivity  
+- Encourages daily reflection and self-awareness  
+- Makes it easier to understand work habits  
+- Simple design that is easy to use and understand  
+- Visual graphs make trends clear at a glance  
